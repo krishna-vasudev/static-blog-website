@@ -29,7 +29,7 @@ This is a static blog website built with css flexbox and other custom properties
 
 
 ### Links
-- Live Site URL: [live site](#)
+- Live Site URL: [live site](https://krishna-vasudev.github.io/static-blog-website/)
 
 ## My process
 
